@@ -1,1 +1,1 @@
-# React redux beginner cart project learned form davegray
+# React redux beginner counter project learned form davegray
